@@ -1,4 +1,4 @@
-package com.atmosware.cleanarchwithcqrs.applications.features.account.commands;
+package com.atmosware.cleanarchwithcqrs.applications.features.account.commands.create;
 
 import org.axonframework.commandhandling.CommandHandler;
 import org.axonframework.eventsourcing.EventSourcingHandler;
